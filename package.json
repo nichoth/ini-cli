@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "ini": "^1.3.4"
+  },
+  "bin": {
+    "ini": "./index.js"
+  },
+  "name": "ini-cli",
+  "description": "Command line tool that prints a single value from an ini file",
+  "version": "0.0.0",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nichoth/ini-cli.git"
+  },
+  "keywords": [
+    "ini",
+    "cli",
+    "command",
+    "line",
+    "parser"
+  ],
+  "author": "Nick Thomas <nichoth@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nichoth/ini-cli/issues"
+  },
+  "homepage": "https://github.com/nichoth/ini-cli#readme"
+}
